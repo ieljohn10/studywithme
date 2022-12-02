@@ -47,6 +47,12 @@ const callbackFunction = () => {
     console.log('Used Callback Function');
     console.log(processThis(5,3,addFunc));
 
+    // we can also do this one
+    let tryLang = processThis(4,2,(x,y) => {
+        return x / y;
+    })
+    console.log('try lang')
+    console.log(tryLang);
     return(
         <div className="callbackFunction">
             <h1>What is a callback?</h1>
