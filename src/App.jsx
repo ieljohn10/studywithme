@@ -1,13 +1,11 @@
-import { useState } from 'react';
-import CallbackFunction from './topics/callback/callback.jsx';
-import './App.css'
+import './App.scss'
+import Count from './components/Count/Count'
+
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <div className="App">
-      <CallbackFunction />
+      <Count />
     </div>
   )
 }
