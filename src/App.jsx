@@ -1,11 +1,14 @@
-import './App.scss'
-import Count from './components/Count/Count'
-
+import './App.scss';
+import ClassBase from './components/ClassBase/ClassBase';
+// import Count from './components/Count/Count';
+// import Calculator from './components/Calculator/Calculator';
 
 function App() {
   return (
     <div className="App">
-      <Count />
+      {/* <Count /> */}
+      {/* <Calculator /> */}
+      <ClassBase />
     </div>
   )
 }
