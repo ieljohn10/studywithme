@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"name": "Mcdonald's",
+		"categories": ["chicken", "fast-food"],
+		"free_delivery": true,
+		"delivery_time": "10-15 mins",
+		"ratings": 4.5,
+		"review": 25,
+		"thumbnail": "Mcdo@2x.png"
+	},
+	{
+		"id": 2,
+		"name": "Starbucks",
+		"categories": ["burger", "coffee", "fast-food"],
+		"free_delivery": true,
+		"delivery_time": "10-15 mins",
+		"ratings": 4.5,
+		"review": 25,
+		"thumbnail": ""
+	},
+	{
+		"id": 3,
+		"name": "Jollibee",
+		"categories": ["chicken", "pizza", "fast-food"],
+		"free_delivery": true,
+		"delivery_time": "20-30 mins",
+		"ratings": 4.2,
+		"review": 85,
+		"thumbnail": ""
+	},
+	{
+		"id": 4,
+		"name": "Dunkin Donuts",
+		"categories": ["chicken", "coffee", "fast-food"],
+		"free_delivery": true,
+		"delivery_time": "20-30 mins",
+		"ratings": 4.5,
+		"review": 75,
+		"thumbnail": ""
+	}
+]

@@ -1,0 +1,36 @@
+[
+	{
+		"user": 1,
+		"items": [
+			{
+				"id": 1,
+				"quantity": 2
+			},
+			{
+				"id": 2,
+				"quantity": 1
+			}
+		],
+		"subtotal": 27.3,
+		"tax": 5.3,
+		"delivery": 1.0,
+		"total": 33.6
+	},
+	{
+		"user": 2,
+		"items": [
+			{
+				"id": 1,
+				"quantity": 2
+			},
+			{
+				"id": 2,
+				"quantity": 1
+			}
+		],
+		"subtotal": 27.3,
+		"tax": 5.3,
+		"delivery": 1.0,
+		"total": 33.6
+	}
+]
