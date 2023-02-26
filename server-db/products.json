@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Salmon Salad",
+		"description": "Baked salmon fish, iren ipsum dolor si Lorem ipsum dolor sit amet.",
+		"price": 4.5,
+		"ratings": 4.5,
+		"reviews": 25,
+		"thumbnail": "",
+		"img": ""
+	},
+	{
+		"id": 2,
+		"name": "Ground Beef Tacos",
+		"description": "Brown the beef better. Lean ground beef iren ipsum dolor si Lorem ipsum dolor sit amet.",
+		"price": 9.5,
+		"ratings": 4.5,
+		"reviews": 30,
+		"thumbnail": "",
+		"img": ""
+	},
+	{
+		"id": 3,
+		"name": "Salmon Salad",
+		"description": "Baked salmon fish, iren ipsum dolor si Lorem ipsum dolor sit amet.",
+		"price": 4.5,
+		"ratings": 4.5,
+		"reviews": 25,
+		"thumbnail": "",
+		"img": ""
+	},
+	{
+		"id": 4,
+		"name": "Ground Beef Tacos",
+		"description": "Brown the beef better. Lean ground beef iren ipsum dolor si Lorem ipsum dolor sit amet.",
+		"price": 9.50,
+		"ratings": 4.5,
+		"reviews": 30,
+		"thumbnail": "",
+		"img": ""
+	},
+	{
+		"id": 5,
+		"name": "Salmon Salad",
+		"description": "Baked salmon fish, iren ipsum dolor si Lorem ipsum dolor sit amet.",
+		"price": 4.5,
+		"ratings": 4.5,
+		"reviews": 30,
+		"thumbnail": "",
+		"img": ""
+	},
+	{
+		"id": 6,
+		"name": "Ground Beef Tacos",
+		"description": "Brown the beef better. Lean ground beef iren ipsum dolor si Lorem ipsum dolor sit amet.",
+		"price": 9.5,
+		"ratings": 4.5,
+		"reviews": 30,
+		"thumbnail": "",
+		"img": ""
+	}
+]
